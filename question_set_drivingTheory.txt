@@ -1,0 +1,35 @@
+Does the driver of the blue car have to give way?| Yes| No| Only when you are turning| Sometimes| B| images/drivingTheory/questionOne.jpg
+What must you do when you see lue and red flashing lights behind you?| Speed up| Slow down & move left| Slown down| Pull over and stop| d
+At an intersection what do police overrule?| Traffic Lights| Give way rules| Roadsigns| All above| d
+What does this sign mean?| max safe height of vehicle is 4.65m| Width road is 4.65m| Turn in 4.65m| max safe length of vehicle is 4.65m| a| images/drivingTheory/questionTwo.jpg
+Does the blue driver have to give way?| Yes| If he feels like it| No| Only when there is a police around| C| images/drivingTheory/questionThree.jpg
+What does this sign mean?| Give way| Tunnel| Tornado!| roundabout| d| images/drivingTheory/roundaboutSign.png
+Does the blue driver have to give way| No| Yes| Maybe| I dont know| b| images/drivingTheory/QuestionFour.jpg
+You come to a school patrol crossing and both signs are held out. What must you do?| Stop until signs are pulled in| Carry on when children arent crossing| Stop until children are crossed| Run them over| a
+When coming up to a stop sign. Where should you stop?| Behind the line| Where you can see cars in both direction| You dont need to when theres no cars| On the yellow line| B
+When coming up to a roundabout you must give way to all vehicles that cross your path from the left| True| False| :)| :(| b
+When must you turn your vehicle headlights on?| 30min before/after sunset/rise| In fog| When you can't see a person/vehicle in 100m| All of above| d
+A school bus is stopped. What speed must you drive?| Continue normally| 20km/h| 40km/h| 30km/h| b | images/drivingTheory/school_bus.png
+Can you use a cellphone while driving?| Yes| No| Don't Click me| Only if safe| b
+What does a warning triangle represent?| Accident| Road closure| Giveway| Stop| a | images/drivingTheory/warning_triangle.png
+What does this sign mean? | You must stop at the intersection at ALL times | Only stop if there are cars | You must give way to others | You must slow down | a | images/drivingTheory/stop_sign.png
+What does this sign mean? | Speed limit is 60 | speed limit is 100 | Speed limit is 60 | Caution of speed | b | images/drivingTheory/default_speed.png
+Which of the following is not a condition on the restricted license? | Between 10pm and 5am you must have a supervisor | You no longer need L plates | You can carry your friends around | Must be at least 16.5 yrs old | C
+If you curb the car during the practical test, What happens? | Critical Error | Instant fail | Nothing | Warning | b | images/drivingTheory/curbed_car.png
+Which car goes first? | Red | Blue | Either | Whoever arrived first | b | images/drivingTheory/questionfive.png
+Which car has to GIVE way | red | neither | Whoever arrived first | green car | d | images/drivingTheory/question_six.jpg
+A light vehicle towing a trailer is limited to __km/h in an open road | 50 | 90 | 100 | 80 | b
+Can you park next to a fire hydrant | Yes | No | Only during off hours | Only when there is someone readily avalible to move the car | d
+What side of the road does New Zealand drive on? | Left | Right | Both | Midle | a
+If the front left tire blows, Which side does the car lean to? | Right | Left | Neither | Upwards | b
+You are travelling at 50km/h and is approx 3m from the intersection. The traffic light turns yellow, What should you do? | Try stop | Continue going | Accelerate | Stop and reverse | b | images/drivingTheory/yellow_traffic_light.png
+What does a flashing yellow traffic light mean? | Slow down if possible, Else go | The light is about to turn red | Speed up | Traffic lights are down, Use stop rules | d | images/drivingTheory/yellow_traffic_light.png
+When overtaking, Can you exceed the speed limit? | Only if safe to do so | No | Yes | If there are no cops | b
+Can you have alcohol in the system in your restricted license | Only a litte | Yes | None at all | --- | c
+When turning right from a two-laned road into a one way street that has two lanes. Which lane must you drive into? | Left Lane | Right Lane | Doesnt matter | Middle | b
+Do you have to give way to pedestrians on zedbra crossings? | Yes | NO | -- | -- | A
+END
+
+Question set created on: 1 Sep 2019
+Images are taken from google and may be copyrighted, I do not own any images
+Road code from NZTA

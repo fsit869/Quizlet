@@ -1,0 +1,34 @@
+What is this symbol called? | Sum | Delta | Sigma | Stigma | c | images/maths/questionOne.png
+By looking at the graph, What is the equation of the graph? | y=x^2 | y=x^3 | y=x^4 | y^2 = x^2 | a | images/maths/questionTwo.png
+This answer is wrong. Identify which line the error first occurred | 1 | 2 | 3 | 4 | c | images/maths/questionThree.png
+The area of the right angled triangle is 35cm^2 , What is the value of x? | 2.301 | -3.802 | -5 | 3.5 | d | images/maths/questionFour.png
+What is 5 + 7 + 2 - 1 = ? | 21 | 13 | 15 | 12 | b |
+What is this formula called? | Simpsons rule | Discriminant | Quadratic formula | Division rulle | c | images/maths/questionFive.png
+What does the simpsons rule use to approximate the area? | Trapeziums | Circles | Cubics | Parabolas | d |
+Which of the following is a whole numbers? | 0,1,2,3,4... | 1/2, 1, 3/2... | 1, 1.5, 2.0... | 3.141 |  a
+Which of the is not true.\n Complex numbers are ____ | Imaginary | Real | Unreal | part of maths | b
+What will the derivative function look like for the following graph | Negative cubic | Negative quadratic | Positive cubic | Positive quadratic | d | images/maths/questionSix.png
+What is the value of 5! | 60 | 160 | 120| 5 | c
+What is this formula called? | Quadratic Formula | Pythagorean Theorem | Sine Rule | Trigonometry | b | images/maths/questionSeven.png
+What is 48 + 29 | 2.4 * 10 | 9.4 / 10 | 7.7 * 10 | 7.7 / 10 | c
+According to google, Who invented calculus first? | Winston Peters | Mr Isedale | Mr Paine | None of the above | d
+What is this shape? | Pentagon | Hexagon | Octagon | Nonagon | a | images/maths/questionEight.png
+48 + 32 = | 80 | 90 | 70 | 50 | a
+How many triangles are in this picture? | 16 | 27 | 18 | 24 | b | images/maths/questionNine.png
+What is a 3 sided shape called? | Rectangle | Octapus | Triangle | Circle | c
+14 * 2 | 28 | 23 | 14 | 2 | a
+What shape does this equation produce? | Circle | Quadratic | Oval | Conic | a | images/maths/questionTen.png
+Which of the following is the correct pi? (Unrounded) | 3.14219 | 3.14121 | 3.14159 | 3.2 | c | images/maths/pi.png
+What is the first 2 digits of Euler's number? | 2.7 | 1.5 | 3.141 | 0.5 | a | images/maths/e.jpg
+What does this symbol represent? | Eight | Infinity | Zero | For loop | b | images/maths/infinity.png
+What is an right angled triangle? | A triangle that is right | A triangle with a 90 degree side | All angles add to 180 degrees | It is an obtuse angle | b
+What is an reflex angle? | An angle that is flexible | An angle that is greater than 180 degrees | An angle that is 180 degrees | An obtuse angle | b
+What is an acute angle? | A angle less than 90 degrees | A cute angle | A angle greater than 90 degrees | An angle greater than 180 degrees | a
+What is an complementary angle? | When two angles add to 90 degrees | When two angles add to 180 degrees | When two angles add to 360 degrees | When two angles add to 60 degrees | a
+What is an supplmentry angle? | When two angles add to 90 degrees | When two angles add to 180 degrees | When two angles add to 360 degrees | When two angles add to 60 degrees | b
+If angle 2 & 7 are equal and are on parallel lines, What are they called? | Corresponding angles | Angles on a straight line | Alternating angles | Angles | a
+If angle 2 & 6 are equal and are on parallel lines, What are they called? | Corresponding angles | Angles on a straight line | Alternating angles | Angles | c
+END
+
+Question set created on: 1 Sep 2019
+Images are taken from google and may be copyrighted, I do not own any images

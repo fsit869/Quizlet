@@ -1,0 +1,15 @@
+Fails| One| Two| Three| Four| a | Noimage.png
+Answer is Two| One| Two| Three| Four| b
+Fails| One| Two| Three| Four| C | Fail.Image
+Answer is Five| One| Two| Five| Four| c
+Answer is Six | One| Six| Three| Four| b
+Answer is Seven | 6 | 2 | 7 |4 | c
+Answer is Eight | 9 | 42 | 2 | 8 | d
+Answer is One| One| Two| Three| Four| a
+Answer is Two| One| Two| Three| Four| b
+Answer is Three| One| Two| Three| Four| c
+Answer is Five| One| Two| Five| Four| c
+Answer is Six | One| Six| Three| Four| b
+Answer is Seven | 6 | 2 | 7 |4 | c
+Answer is Eight | 9 | 42 | 2 | 8 | d
+END
