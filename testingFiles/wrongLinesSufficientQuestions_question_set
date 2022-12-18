@@ -1,0 +1,16 @@
+Answer is One| One| Two| Three| Four| a
+Answer is Two| One| Two| Three| Four| b
+Answer is Three| One| Two| Three| Four| c
+Wrongly formatted. Too many columns| One| Two| Three| Four| d | Not a column | Yea |
+Answer is Five| One| Two| Five| Four| c
+Answer is Six | One| Six| Three| Four| b
+Answer is Seven | 6 | 2 | 7 |4 | c
+Answer is Eight | 9 | 42 | 2 | 8 | d
+Wrongly     formatted, Not enough columns | 9 |
+Answer is Nine | 9 | 2 | 3 |4 | a
+Answer is Nine | 9 | 2 | 3 |4 | a
+Answer is Nine | 9 | 2 | 3 |4 | a
+Wrong, No answer key | 9 | 2 | 3 |4 |
+END
+
+For testing answers
